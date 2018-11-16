@@ -7,7 +7,6 @@ npm install simple-oauth2
 */
 
 const PORT = 3000;
-
 const request = require('request');
 const express = require('express'), app = express();
 
